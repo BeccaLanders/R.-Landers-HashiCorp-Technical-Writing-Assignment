@@ -41,7 +41,7 @@ Once you're finished with your edits, send the PR link to the HashiCorp recruite
 ### `git push` - 
 Git push sends the changes and commits made in your local branch to a remote repository on GitHub. This allows other collaborators to access your changes and pull or fetch them.  
 <br> 
->**KEEP IN MIND**: Git push will fail if the remote branch has diverged from your local branch. Before you execute Git push, you need to ensure that your local branch is synchronized with the most current version of the remote branch by using `git pull` OR `git fetch` AND `git merge`.
+> **KEEP IN MIND**: Git push will fail if the remote branch has diverged from your local branch. Before you execute Git push, you need to ensure that your local branch is synchronized with the most current version of the remote branch by using `git pull` OR `git fetch` AND `git merge`.
  
 
 ### `git pull` - 
@@ -50,7 +50,7 @@ This action does two things for you:
 2. Automatically merge these changes to your local copy.  
 
 <br> 
->**KEEP IN MIND**: Git pull will automatically fetch and merge into your branch from the local repository. If you want to review any changes prior to merging, we recommend you execute `git fetch` instead.
+> **KEEP IN MIND**: Git pull will automatically fetch and merge into your branch from the local repository. If you want to review any changes prior to merging, we recommend you execute `git fetch` instead.
 
 
 ### `git fetch` - 
