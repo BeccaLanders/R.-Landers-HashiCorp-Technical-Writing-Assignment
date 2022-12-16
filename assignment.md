@@ -49,7 +49,6 @@ This action does two things for you:
 1. Fetch changes/commits made to the remote repository.
 2. Automatically merge these changes to your local copy.  
 
-<br> 
     **KEEP IN MIND**: Git pull will automatically fetch and merge into your branch from the local repository. If you want to review any changes prior to merging, we recommend you execute `git fetch` instead.
 
 
